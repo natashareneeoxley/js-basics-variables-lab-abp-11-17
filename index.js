@@ -1,6 +1,5 @@
 companyName = 'Scuber'
-const companyName = parseInt('Scuber');
-
+const companyName = 'Scuber'
 
 let mostProfitableNeighborhood =  parseInt('Chelsea');
 
