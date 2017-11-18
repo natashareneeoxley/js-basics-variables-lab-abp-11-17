@@ -1,4 +1,4 @@
-companyName = 'Scuber'
+
 const companyName = 'Scuber'
 
 let mostProfitableNeighborhood =  parseInt('Chelsea');
