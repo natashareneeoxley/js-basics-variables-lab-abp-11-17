@@ -1,6 +1,6 @@
-js
-const companyName = parseInt('Scuber');
 companyName = 'Scuber'
+const companyName = parseInt('Scuber');
+
 
 let mostProfitableNeighborhood =  parseInt('Chelsea');
 
