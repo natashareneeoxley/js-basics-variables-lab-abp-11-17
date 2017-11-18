@@ -1,6 +1,6 @@
 
 const companyName = 'Scuber'
 
-let mostProfitableNeighborhood =  parseInt('Chelsea');
+let mostProfitableNeighborhood = 'Chelsea';
 
 let companyCeo = parseInt('Susan Smith');
